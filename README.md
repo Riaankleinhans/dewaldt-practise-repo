@@ -5,17 +5,6 @@ This is a simple console-based game written in Python where the user has to gues
 
 Requirements Python 3.x
 
-How to Play
-Run the program by executing the following command in the terminal: python guess_the_number.py
-
-The program will generate a random number between 1 and 100, and prompt you to enter your guess.
-
-Enter a number and press Enter.
-
-The program will tell you if your guess is too high or too low, and prompt you to guess again.
-
-Continue guessing until you correctly guess the number.
-
 
 Example Gameplay
 
