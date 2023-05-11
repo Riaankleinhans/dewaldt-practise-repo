@@ -8,6 +8,6 @@ For a quick install, use Python from python.org and install the extension from t
 
 ## To install extensions from within Visual Studio:
 
-1.From Extensions > Manage Extensions, find the extension you want to install. (you can search in the Search window Python.)
+1. From Extensions > Manage Extensions, find the extension you want to install. (you can search in the Search window Python.)
 
-2.Select Download. The extension is scheduled for install.
+2. Select Download. The extension is scheduled for install.
